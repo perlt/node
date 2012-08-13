@@ -1,0 +1,5 @@
+This is a plugin for yuicompressor writen by node.js ;
+Usage:
+Write the path of the files you want to compressor in conf.js.
+Launch node.js command line insert this command: node yuicompressor.js
+
